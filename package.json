@@ -1,19 +1,25 @@
 {
-  "name": "preceptor-core",
-  "version": "0.10.1",
+  "name": "@foxandgeese/preceptor-core",
+  "version": "1.0.0",
   "description": "Core components for the preceptor test runner and aggregator",
   "license": "MIT",
   "main": "index.js",
-  "homepage": "https://github.com/yahoo/preceptor-core",
-  "bugs": "https://github.com/yahoo/preceptor-core/issues",
-  "author": {
-    "name": "Marcel Erz",
-    "email": "erz@yahoo-inc.com",
-    "url": "http://www.marcelerz.com"
-  },
+  "homepage": "https://github.com/foxandgeese/preceptor-core",
+  "bugs": "https://github.com/foxandgeese/preceptor-core/issues",
+  "contributors": [
+    {
+      "name": "Marcel Erz",
+      "email": "erz@yahoo-inc.com",
+      "url": "http://www.marcelerz.com"
+    },
+    {
+      "name": "Galen Huntington",
+      "email": "galen@foxandgeese.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yahoo/preceptor-core.git"
+    "url": "https://github.com/foxandgeese/preceptor-core.git"
   },
   "keywords": [
     "testing"
