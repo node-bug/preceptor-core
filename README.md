@@ -4,11 +4,11 @@ Preceptor-Core
 Shared library for the preceptor test runner and aggregator.
 
 
-[![NPM version](https://badge.fury.io/js/@foxandgeese/preceptor-core.svg)](https://www.npmjs.com/package/@foxandgeese/preceptor-core)
-[![NPM License](https://img.shields.io/npm/l/@foxandgeese/preceptor-core.svg)](https://www.npmjs.com/package/@foxandgeese/preceptor-core)
+[![NPM version](https://badge.fury.io/js/@nodebug/preceptor-core.svg)](https://www.npmjs.com/package/@nodebug/preceptor-core)
+[![NPM License](https://img.shields.io/npm/l/@nodebug/preceptor-core.svg)](https://www.npmjs.com/package/@nodebug/preceptor-core)
 
-[![NPM](https://nodei.co/npm/@foxandgeese/preceptor-core.png?downloads=true&stars=true)](https://www.npmjs.com/package/@foxandgeese/preceptor-core)
-[![NPM](https://nodei.co/npm-dl/@foxandgeese/preceptor-core.png?months=3&height=2)](https://www.npmjs.com/package/@foxandgeese/preceptor-core)
+[![NPM](https://nodei.co/npm/@nodebug/preceptor-core.png?downloads=true&stars=true)](https://www.npmjs.com/package/@nodebug/preceptor-core)
+[![NPM](https://nodei.co/npm-dl/@nodebug/preceptor-core.png?months=3&height=2)](https://www.npmjs.com/package/@nodebug/preceptor-core)
 
 
 **Table of Contents**

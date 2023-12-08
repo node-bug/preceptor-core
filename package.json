@@ -1,11 +1,11 @@
 {
-  "name": "@foxandgeese/preceptor-core",
+  "name": "@nodebug/preceptor-core",
   "version": "1.0.0",
   "description": "Core components for the preceptor test runner and aggregator",
   "license": "MIT",
   "main": "index.js",
-  "homepage": "https://github.com/foxandgeese/preceptor-core",
-  "bugs": "https://github.com/foxandgeese/preceptor-core/issues",
+  "homepage": "https://github.com/node-bug/preceptor-core",
+  "bugs": "https://github.com/node-bug/preceptor-core/issues",
   "contributors": [
     {
       "name": "Marcel Erz",
@@ -13,13 +13,13 @@
       "url": "http://www.marcelerz.com"
     },
     {
-      "name": "Galen Huntington",
-      "email": "galen@foxandgeese.com"
+      "name": "Node Bug",
+      "email": "nodebug@outlook.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/foxandgeese/preceptor-core.git"
+    "url": "https://github.com/node-bug/preceptor-core.git"
   },
   "keywords": [
     "testing"
@@ -40,6 +40,6 @@
     "mocha": "10.2.0",
     "sinon": "15.2.0",
     "sinon-chai": "3.7.0",
-    "yuidocjs": "0.10.2"
+    "yuidocjs": "^0.10.2"
   }
 }

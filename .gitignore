@@ -13,3 +13,4 @@ CVS/
 .idea/
 docs/
 xunit.xml
+package-lock.json

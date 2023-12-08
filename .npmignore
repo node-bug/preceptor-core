@@ -13,3 +13,9 @@ Makefile
 .idea/
 docs/
 xunit.xml
+package-lock.json
+.editorconfig
+.gitignore
+.npmignore
+.travis.yml
+yuidoc.json
